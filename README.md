@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goeludit030&label=Profile%20views&color=8b5cf6&style=flat-square" alt="profile views" />
   <a href="https://udit-portfolio-rose.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-34d399?style=flat-square&logo=vercel&logoColor=white" alt="portfolio" /></a>
 </p>
 
@@ -107,25 +106,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=goeludit030&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=goeludit030&hide_border=true&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goeludit030&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=goeludit030&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=goeludit030&bg_color=1a1b27&color=22d3ee&line=8b5cf6&point=f472b6&hide_border=true&area=true" alt="activity graph" />
-</p>
-
----
-
-<p align="center"><i>“From an empty folder to a deployed URL.” — Thanks for stopping by! ⭐</i></p>
+<p align="center"><i>Thanks for stopping by! ⭐</i></p>
